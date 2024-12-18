@@ -16,7 +16,7 @@
 <h3 align="center">Welcome - Bienvenid@</h3>
 
   <p align=center">
-    Bender
+    APOD (Astronomy Picture of the Day)
     <br />
     <br />
     <a href="https://apod.julioreyes.dev/">View Demo - Ver Demo</a>
